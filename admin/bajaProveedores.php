@@ -82,7 +82,7 @@
 						<td><?php echo $var['Productos']?></td>
 					</tr>
 					<tr>
-						<td><strong>Productos: </strong></td>
+						<td><strong>Nota: </strong></td>
 						<td><?php echo $var['Nota']?></td>
 					</tr>
 

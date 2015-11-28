@@ -1,0 +1,42 @@
+#tablaServicios{
+	width: 700px;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: text-top;
+	text-align: center;
+}
+#telefono{
+	color:#289dea;
+}
+
+.texto{
+	color: #7a2018;
+	text-align: right;
+}
+.input{
+	border: solid 1px #ababab;
+}
+.titulo{
+	color: #a60001;
+}
+.bcancelar{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: white;
+	background-color: #a50001;
+
+}
+.baceptar{	
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;;
+	color:white;
+	background-color: #096e07;
+}
+.inputB{
+	background-color: #a2a2a2;
+}
